@@ -1,0 +1,27 @@
+441823,Tom,Brady,Mehlville High School,MO,tombrady@gmail.com,2013,0.00,No
+3198933,Dan,Smith,Bayshore High School,CA,dansmith@gmail.com,2011,100.36,Yes
+5734660,Joe,Brown,Elk Grove High School,TX,joebrown@gmail.com,2011,0.00,No
+9126509,Lucy,May,Redwood High School,FL,lucymay@gmail.com,2014,36.00,Yes
+5324623,Kim,Sue,Seal Gulch High School,CA,kimsue@gmail.com,2015,15.00,Yes
+4927769,Ashley,Borna,Edgewater High School,LA,ashleyborna@gmail.com,2013,0.00,Yes
+6654747,Zan,Akuchi,Clear Coast High School,CA,zanakuchi@yahoo.com,2012,0.00,Yes
+5426640,Angel,Ayotunde,Northridge High School,GA,angelayotunde@yahoo.com,2011,0.00,Yes
+2883767,Sammy,Li,Granite Bay High School,CA,sammyli@yahoo.com,2012,120.00,Yes
+3306528,Willy,Nkruma,Upper Lake High School,ME,willynkruma@gmail.com,2013,15.00,Yes
+8483788,Dana,Chin,Bear Mountain High School,MT,danachin@gmail.com,2012,0.00,Yes
+2266517,Innocent,Niyibizi,Mehlville High School,MO,innocent.niyibizi9@gmail.com,2014,0.00,Yes
+9729526,Su,Emerson,Westside High School,IL,su.emerson592@hotmail.com,2010,0.00,No
+6640697,Ekene,Anat,Clear Lake High School,MI,ekeneanat536@gmial.com,2013,0.00,Yes
+6331056,Evern,Yoshi,Valley View High School,NV,evern.yoshi@hotmail.com,2011,0.00,Yes
+379032,Maria,Laurie,Sunset Hills High School,NH,maria.laurie5632@yahoo.com,2013,10.00,No
+8598088,Fatsani,Chanda,Columbus High School,NE,fatsani.chanda925@gmail.com,2012,0.00,Yes
+578058,Mavuto,Pat,Cape Cod High School,NJ,mavutopat751@gmail.com,2010,100.00,No
+1660367,Jing,Yuuki,Greenfield High School,NM,jingyuuki156@gmail.com,2012,30.00,Yes
+7292967,Abia,Kayin,Spirng Gardens High School,NY,abia.kavin138@gmail.com,2015,60.00,No
+2684206,Zhi,Naseem,Greenville High School,NC,zhi.naseem826@yahoo.com,2011,0.00,Yes
+2785248,Dwi,Jojo,Woodcreek High School,ND,dwi.jojo58436@yahoo.com,2013,10.00,Yes
+5253423,Jin,Omid,Central High School,OH,jin_omid861@gmial.com,2014,100.00,Yes
+5955277,Ori,Bo,Frozen Lake High School,OK,ori_bo376@hotmail.com,2013,15.00,Yes
+9987311,Themba,Delshad,Pine Hills High School,OR,thelma.delshad8245@gmail.com,2010,0.00,No
+1784221,Duha,Yuval,Sun Valley High School,PA,duha_yuval753@gmail.com,2010,0.00,No
+1922819,Khurshid,Mu,Apple Valley High School,RI,khurshid_mu001@gmial.com,2011,0.00,Yes
